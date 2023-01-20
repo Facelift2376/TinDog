@@ -1,2 +1,1 @@
-# TinDog
-A step toward WebDevelopment. 
+TinDog Starting Files
