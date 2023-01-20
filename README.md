@@ -1,4 +1,4 @@
 TinDog completeds
-with some error 
+with some bugs 
 such as 
 z-index
